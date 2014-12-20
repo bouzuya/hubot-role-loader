@@ -1,6 +1,6 @@
 {
   "name": "hubot-role-loader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script for loading the roles to `robot.brain`",
   "main": "index.js",
   "scripts": {
